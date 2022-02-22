@@ -7,7 +7,7 @@ git add
 git commit
 ローカルリポジトリに登録
 ※commitは1作業ごとに行うこと！
-コメントを残せる
+git commit -v でコメント入力時に差分の確認も可能
 
 コメントの書き方
 1行目：変更内容の要約
@@ -16,6 +16,13 @@ git commit
 
 git staus
 リポジトリの変更状態を確認する
+
+git log 
+コミットのログを確認できる
+
+ファイルを削除した場合
+git rm ファイル名
+git commit -v
 
 
 
