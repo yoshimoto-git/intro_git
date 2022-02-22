@@ -14,8 +14,6 @@ git commit -v でコメント入力時に差分の確認も可能
 2行目：空行
 3行目：変更した理由
 
-git staus
-リポジトリの変更状態を確認する
 
 git log 
 コミットのログを確認できる
@@ -24,6 +22,8 @@ git log
 git rm ファイル名
 git commit -v
 
+git staus
+リポジトリの変更状態を確認する
 
 
 
