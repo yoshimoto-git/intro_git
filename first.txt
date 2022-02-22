@@ -1,0 +1,11 @@
+
+git init 
+
+git add 
+ステージングエリア (控室)
+
+git commit
+
+
+
+
